@@ -12,6 +12,7 @@ public class Bai7 {
 		double yB = input.nextDouble();
 		double d = Math.sqrt((xA - xB) * (xA - xB) + (yA - yB) * (yA - yB));
 		System.out.println("khoảng cách d giữa 2 điểm a va B la: " + d);
+		System.out.println("Em yeu anh "); 
 
 	}
 }
